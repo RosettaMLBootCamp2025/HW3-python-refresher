@@ -16,6 +16,10 @@ You will:
 
 - HW1 completed (Python environment set up)
 
+## About Autograding
+
+**Note:** This assignment has automated tests that run when you push your code. You'll see a score out of 100 points. **These points are just for feedback** - they help you know if your functions are working correctly. This is a bootcamp focused on learning, not grades!
+
 ## How to Complete This Assignment
 
 Each Python file is a template with incomplete functions. Look for `# TODO:` comments - these mark where you need to write code. Read the docstrings and hints carefully, then implement the missing functionality.
